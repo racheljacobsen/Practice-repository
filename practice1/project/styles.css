@@ -1,0 +1,94 @@
+html {
+	background:#d9d9d9;
+}
+header {
+	padding: 20px,0px,20px,0px;
+}
+#top-nav {
+	float: right;
+	margin: 12% 10% 0% 0%;
+	text-transform: uppercase;
+  font-family: sans-serif;
+}
+#top-nav ul li {
+	display: inline;
+	padding: 10px;
+  margin-bottom: 10px;
+	background: white;
+}
+#top-nav a: hover,
+#top-nav a: focus,
+#top-nav a: active {
+	background: white;
+	color: black;
+}
+h1 {
+  font-size: 48px;
+  font-family:sans-serif;
+  text-align: center;
+	background: white;
+	padding: 30px;
+	border: 30px;
+	position:fixed;
+}
+blockquote {
+	font-family:sans-serif;
+	text-align:center;
+	padding: 10px;
+	width: 50%;
+	margin-left:20%;
+	background:white;
+	border:10px;
+	border-color:grey;
+}
+.article-thumbs	{
+	text-align: center;
+	clear:both;
+}
+.article-thumbs img {
+	border: 50%;
+	max-width: 175px;
+	padding: 5px;
+}
+main img {
+  width:90%;
+	padding:20px;
+}
+nav ul {
+	list-style-type: none;
+	margin: 0px;
+}
+nav ul a,
+nav ul a:visited {
+	text-decoration: none;
+	color: #333;
+}
+html {
+  margin-left: 10px;
+  margin-right: 10px;
+	margin-bottom:20px;
+}
+#secondary-nav {
+margin: 0% 0% 10% 0%;
+font-family:sans-serif;
+}
+#secondary-nav ul{
+	display:inline;
+}
+#secondary-nav ul li {
+  padding: 0px;
+	background: white;
+	float:left;
+	width: 30%;
+}
+#architecture-pics{
+	width: 400px;
+	margin-left: 30%;
+	padding: 3px;
+	background:black;
+}
+#architecture-pics blockquote {
+	width:400px;
+	background:white;
+	padding:30px;
+}
